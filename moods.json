@@ -1,0 +1,47 @@
+{
+  "neviou": {
+    "name": "neviou",
+    "color": [
+      255,
+      127,
+      80
+    ],
+    "brightness": 0.5
+  },
+  "nebiu": {
+    "name": "nebiu",
+    "color": [
+      255,
+      127,
+      80
+    ],
+    "brightness": 0.5
+  },
+  "nebio": {
+    "name": "nebio",
+    "color": [
+      255,
+      127,
+      80
+    ],
+    "brightness": 0.5
+  },
+  "neville": {
+    "name": "neville",
+    "color": [
+      255,
+      127,
+      80
+    ],
+    "brightness": 0.5
+  },
+  "nevio": {
+    "name": "nevio",
+    "color": [
+      189,
+      252,
+      201
+    ],
+    "brightness": 0.2
+  }
+}

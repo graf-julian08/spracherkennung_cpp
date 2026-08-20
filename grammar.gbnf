@@ -1,0 +1,7 @@
+root   ::= command
+command ::= ( activation " " action " " color ) | ( activation " " state )
+
+activation ::= "Lampe" | "Licht" | "Computer"
+action     ::= "auf" | "mache" | "stelle" | "schalte"
+state      ::= "an" | "aus"
+color      ::= "Rot" | "Grün" | "Blau" | "Gelb" | "Orange" | "Violett" | "Pink" | "Weiß" | "Warm" | "Kalt"
